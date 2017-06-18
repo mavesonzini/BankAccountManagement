@@ -57,6 +57,9 @@ iv. Deposits £75 in the first account, and prints resulting balance
 
 v. Prints out Account info for all three accounts
 
+<img width="738" alt="screen shot 2017-06-18 at 12 51 04" src="https://user-images.githubusercontent.com/11363501/27260489-4177d122-5425-11e7-9a5e-584f8e4d4354.png">
+<img width="595" alt="screen shot 2017-06-18 at 12 51 42" src="https://user-images.githubusercontent.com/11363501/27260488-4176bf62-5425-11e7-8d2f-2ee1ca58f3c4.png">
+
 2. Examine the getBalance() method in the Account class. Note that it
 
 returns the balance in the account. Add some more code in Manage
